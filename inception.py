@@ -115,7 +115,7 @@ class GoogLeNet(nn.Module):
 
 def score(g, samples, batch_size):
     model = GoogLeNet().cuda()
-    model.load_state_dict(torch.load("inception.pt"))
+    model.load_state_dict(torch.load("gm-hw3/inception.pt"))
     softmax = nn.Sequential(model, nn.Softmax(dim=1))
 
     softmax.eval()
