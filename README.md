@@ -1,4 +1,4 @@
-# CSE 599i (Generative Models) Homework 3 #
+# [CSE 599i](https://courses.cs.washington.edu/courses/cse599i/20au/) (Generative Models) Homework 3 #
 
 In this part of [Homework 3](https://courses.cs.washington.edu/courses/cse599i/20au/resources/hw3.pdf) (Problems 5 and 6) your will implement a GAN, and run experiments using the MNIST and CIFAR-10 datasets.
 
