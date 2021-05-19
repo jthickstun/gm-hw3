@@ -1,6 +1,6 @@
 # CSE 599i (Generative Models) Homework 3 #
 
-In this part of Homework 3, your will implement several a GAN, and run experiments using the MNIST and CIFAR-10 datasets.
+In this part of [Homework 3](https://courses.cs.washington.edu/courses/cse599i/20au/resources/hw3.pdf), your will implement several a GAN, and run experiments using the MNIST and CIFAR-10 datasets.
 
 You can download the datasets [__here__](https://courses.cs.washington.edu/courses/cse599i/20au/resources/hw3data.tar.gz) (extract them to the `data/` directory in the root of this repository). I've provided code for loading and processing this data into minibatches in `mnist.py` and `cifar10.py`.
 
